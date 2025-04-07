@@ -1,5 +1,9 @@
 # Base Rooms
-- name: Dining Room
+- name: Rave
+  base: true
+  emoji: 🍽️
+
+- name: Glass Onion
   base: true
   emoji: 🍽️
 
@@ -7,38 +11,96 @@
   base: true
   emoji: 🍳
 
-- name: Conservatory
+- name: Garage
   base: true
   emoji: 🔭
 
-- name: Billiard Room
+- name: Classroom
   base: true
   emoji: 🎱
 
+- name: Science Lab
+  base: true
+  emoji: 📚
+  
+- name: Saloon
+  base: true
+  emoji: 📚
+  
+- name: Ranch
+  base: true
+  emoji: 🎱
+
+- name: Dining Room
+  base: true
+  emoji: 📚
+  
+- name: Utonium House
+  base: true
+  emoji: 📚
+    
+- name: Airplane
+  base: true
+  emoji: 📚
+  
+- name: Conservatory
+  base: true
+  emoji: 🎱
+
+- name: Bar
+  base: true
+  emoji: 📚
+  
+- name: Tower
+  base: true
+  emoji: 📚
+  
 - name: Library
+  base: true
+  emoji: 📚
+  
+- name: Restaurant
+  base: true
+  emoji: 📚
+  
+- name: Bakery
+  base: true
+  emoji: 🎱
+
+- name: Forest
+  base: true
+  emoji: 📚
+  
+- name: Lounge
+  base: true
+  emoji: 📚
+    
+- name: Versailles
+  base: true
+  emoji: 📚
+  
+- name: Lerkim
+  base: true
+  emoji: 🎱
+
+- name: Ballroom
+  base: true
+  emoji: 📚
+  
+- name: Secret Lab
   base: true
   emoji: 📚
 
 # Standard Edition only
-- name: Lounge
+- name: Conservatory
   base: false
   edition: standard
   emoji: 🛋️
 
-- name: Hall
+- name: Billiard Room
   base: false
   edition: standard
   emoji: 🏛️
-
-- name: Ballroom
-  base: false
-  edition: standard
-  emoji: 🕺
-
-- name: Study
-  base: false
-  edition: standard
-  emoji: 📜
 
 # Master Edition only
 - name: Courtyard
