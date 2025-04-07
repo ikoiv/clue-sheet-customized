@@ -9,5 +9,5 @@ Short link: [bit.ly/clue-sheet](https://bit.ly/clue-sheet)
 
 | Edition |
 | ------- |
-| [Clue](https://ikoiv.github.io/clue-sheet_customized/clue) |
-| [Clue Master](https://ikoiv.github.io/clue-sheet_customized/clue-master) |
+| [Clue](https://ikoiv.github.io/clue-sheet-customized/clue) |
+| [Clue Master](https://ikoiv.github.io/clue-sheet-customized/clue-master) |
