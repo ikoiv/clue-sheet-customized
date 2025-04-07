@@ -101,3 +101,7 @@
 - name: Sword
   base: true
   emoji: 🕎
+
+  - name: lol
+  base: false
+  emoji: 🕎
