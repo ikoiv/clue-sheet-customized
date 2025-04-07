@@ -46,7 +46,7 @@
   base: true
   emoji: 🔧
 
-  - name: Bow and Arrow
+- name: Bow and Arrow
   base: true
   emoji: 🔪
   
@@ -70,7 +70,7 @@
   base: true
   emoji: 🔧
 
-  - name: Weezing
+- name: Weezing
   base: true
   emoji: 🔪
   
@@ -102,6 +102,6 @@
   base: true
   emoji: 🕎
 
-  - name: lol
+- name: lol
   base: false
   emoji: 🕎
