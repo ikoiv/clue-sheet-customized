@@ -125,3 +125,7 @@
 - name: INA TALK TO SAM
   base_character: true
   emoji: 🌹 
+
+- name: INA TALK TO SAM
+  base_character: false
+  emoji: 🌹 
