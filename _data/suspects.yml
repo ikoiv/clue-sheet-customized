@@ -1,44 +1,127 @@
-- name: Col. Mustard
+- name: Benoit Blanc
   base_character: true
   emoji: 🟨
 
-- name: Dr. Orchid
+- name: Ravey Crockett
   base_character: true
   emoji: 🎴
 
-- name: Prof. Plum
+- name: Blossom
   base_character: true
   emoji: 🟪
 
-- name: Mr. Green
+- name: Bubbles
+  base_character: true
+  emoji: 🟪
+  
+- name: Buttercup
   base_character: true
   emoji: 🟩
 
-- name: Mrs. Peacock
+- name: Billy Loomis
   base_character: true
   emoji: 🦚
 
-- name: Mrs. Scarlet
+- name: Cletus
   base_character: true
   emoji: 🟥
 
-- name: Mme. Rose
-  base_character: false
-  edition: master
+- name: Loretta
+  base_character: true
   emoji: 🌹
 
-- name: Sgt. Gray
-  base_character: false
-  edition: master
+- name: Pacha
+  base_character: true
   emoji: 👨‍🦳
 
-- name: M. Brunette
-  base_character: false
-  edition: master
+- name: James of Team Rocket
+  base_character: true
   emoji: 🟫
 
-- name: Ms. Peach
-  base_character: false
-  edition: master
+- name: Jesse of Team Rocket
+  base_character: true
+  emoji: 🍑
+  
+- name: Skylar High
+  base_character: true
+  emoji: 🦚
+
+- name: Sadie Vanderbilt
+  base_character: true
+  emoji: 🟥
+
+- name: James (Sadie's boyfriend)
+  base_character: true
+  emoji: 🌹
+
+- name: Flynn Rider
+  base_character: true
+  emoji: 👨‍🦳
+
+- name: Rapunzel
+  base_character: true
+  emoji: 🟫
+
+- name: Nancy Drew
+  base_character: true
   emoji: 🍑
 
+- name: Kronk
+  base_character: true
+  emoji: 🦚
+  
+- name: Yzma
+  base_character: true
+  emoji: 🟥
+  
+- name: Patty Choux
+  base_character: true
+  emoji: 🟥
+
+- name: Robin Hood
+  base_character: true
+  emoji: 🌹
+
+- name: Marie Antoinette
+  base_character: true
+  emoji: 👨‍🦳
+
+- name: Onceler
+  base_character: true
+  emoji: 🟫
+
+- name: Professor Plum
+  base_character: true
+  emoji: 🍑
+  
+  - name: Miss Scarlet
+  base_character: true
+  emoji: 🦚
+
+- name: Wu Liuqi
+  base_character: true
+  emoji: 🌹
+
+- name: Minnie Mouse
+  base_character: true
+  emoji: 👨‍🦳
+
+- name: Tara Misu
+  base_character: true
+  emoji: 🟫
+
+- name: INA MAKE A CHARACTER FOR AAKANSHA
+  base_character: true
+  emoji: 🍑
+  
+  - name: Rocco Scarfazzi
+  base_character: true
+  emoji: 🦚
+
+- name: INA TALK TO ALICJA
+  base_character: true
+  emoji: 🟥
+
+- name: INA TALK TO SAM
+  base_character: true
+  emoji: 🌹
