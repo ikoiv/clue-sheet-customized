@@ -5,17 +5,17 @@ April 26th from 6 pm until you wanna go home!
 1. You may have no more than 3 Action cards at a time
 2. You can only get new action cards by taking a shot or completing a puzzle
 3. You may trade cards with other players
-4. 
 
 | Party Sheet |
 | ------- |
 | [Clue](https://ikoiv.github.io/clue-sheet-customized/clue) |
-| Bios|
+
+## Bios
 | ------- |
 |[Characters](https://docs.google.com/spreadsheets/d/1mnWmB3DWyyh8lfnw_yxHxdzZJjrx8bSy2jE0mgaSqtI/edit?usp=sharing) |
 
 ### Action Cards
-| Deflect Cards |
+#### | Deflect Cards |
 Pass on another action card to someone else! Cannot be used to prevent a Character Action
 
 #### | Character Action |
@@ -41,7 +41,9 @@ Each defender can only show you ONE card, if they have more than one.
 ## Making an Accusation
 When you are ready to make an accusation, grab Ina, and go to her laptop.
 You'll step outside, and she'll provide you with your accusation opportunity.
+
 If you are WRONG, your cards become public domain.
+
 If you are CORRECT, you WIN!!!
 
 ## Character Sheet
