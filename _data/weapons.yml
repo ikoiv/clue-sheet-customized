@@ -6,7 +6,7 @@
   base: true
   emoji: 🕎
 
-- name: Revolver
+- name: Six Shooter
   base: true
   emoji: 🔫
 
@@ -22,12 +22,82 @@
   base: true
   emoji: 🔧
 
-- name: Poison
-  base: false
-  edition: master
-  emoji: 🏺
+- name: Mouse Trap
+  base: true
+  emoji: 🔪
+  
+- name: Scissors
+  base: true
+  emoji: 🕎
 
-- name: Horseshoe
-  base: false
-  edition: master
-  emoji: 🐴
+- name: Potion
+  base: true
+  emoji: 🔫
+
+- name: Trophy
+  base: true
+  emoji: ⛓️
+
+- name: Thneed
+  base: true
+  emoji: 🦿
+
+- name: Guillotine
+  base: true
+  emoji: 🔧
+
+  - name: Bow and Arrow
+  base: true
+  emoji: 🔪
+  
+- name: Giant Oven
+  base: true
+  emoji: 🕎
+
+- name: Poison
+  base: true
+  emoji: 🔫
+
+- name: Stiletto
+  base: true
+  emoji: ⛓️
+
+- name: Ice Breath
+  base: true
+  emoji: 🦿
+
+- name: Arbok
+  base: true
+  emoji: 🔧
+
+  - name: Weezing
+  base: true
+  emoji: 🔪
+  
+- name: Brute Strength
+  base: true
+  emoji: 🕎
+
+- name: Hit Man
+  base: true
+  emoji: 🔫
+
+- name: Shotgun
+  base: true
+  emoji: ⛓️
+
+- name: Shockwave
+  base: true
+  emoji: 🦿
+
+- name: Sonic Scream
+  base: true
+  emoji: 🔧
+
+- name: Frying Pan
+  base: true
+  emoji: 🔪
+  
+- name: Sword
+  base: true
+  emoji: 🕎
