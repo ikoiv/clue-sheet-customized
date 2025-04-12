@@ -3,7 +3,7 @@
   base: true
   emoji: 🍽️
 
-- name: Glass Onion
+- name: Library
   base: true
   emoji: 🍽️
 
@@ -55,10 +55,6 @@
   base: true
   emoji: 📚
   
-- name: Library
-  base: true
-  emoji: 📚
-  
 - name: Restaurant
   base: true
   emoji: 📚
@@ -87,7 +83,7 @@
   base: true
   emoji: 📚
   
-- name: Secret Lab
+- name: Barbershop
   base: true
   emoji: 📚
 
