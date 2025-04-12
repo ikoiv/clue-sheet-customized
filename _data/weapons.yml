@@ -86,7 +86,7 @@
   base: true
   emoji: ⛓️
 
-- name: Shockwave
+- name: Thunder Clap
   base: true
   emoji: 🦿
 
@@ -95,6 +95,10 @@
   emoji: 🔧
 
 - name: Frying Pan
+  base: true
+  emoji: 🔪
+  
+- name: Fishing Line
   base: true
   emoji: 🔪
   
